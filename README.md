@@ -8,6 +8,11 @@ Originally built for my own workflow with Fujifilm cameras – now available for
 
 ---
 
+![RectEXIFyer](https://github.com/user-attachments/assets/20b021d3-2178-42b0-a8f7-7ca80a4653bb)
+
+
+---
+
 ## What problem does RectEXIFyer solve?
 
 Social media platforms like Instagram enforce strict image aspect ratios (1:1, 4:5, etc.).  
